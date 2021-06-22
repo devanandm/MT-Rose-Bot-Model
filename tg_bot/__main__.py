@@ -31,6 +31,8 @@ PM_START_TEXT = """
 
 *ലഭ്യമായ കമാന്റുകളെപ്പറ്റി അറിയുവാൻ /help അമർത്തുക.*
 
+*എന്റെ program ചെയ്ത channel @dxmbots
+
 """
 
 HELP_STRINGS = """
@@ -50,7 +52,7 @@ And the following:
 
 DONATE_STRING = """ *🙋‍♂️Hello Bro or Sis*!
 
-*👨‍💻Editing* :- *@Mo_Tech_Group*
+*👨‍💻Editing* :- *@dxmbots😎*
 
 *😔Donation Link Coming Soon😔*
 
